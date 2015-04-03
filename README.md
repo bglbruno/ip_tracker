@@ -37,3 +37,11 @@ Output:
 * ipaddress
 * terminal-table
 
+## Contrib
+
+Feel free to fork and request a pull, or submit a ticket
+https://github.com/bglbruno/ip_tracker/issues
+
+## License
+
+This project is available under the MIT license. See LICENSE for details.
