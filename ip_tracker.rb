@@ -10,7 +10,7 @@ require 'terminal-table'
 program :name, 'IP Tracker'
 program :version, '1.0.0'
 program :description, 'Get informations about a specific IP address'
-program :help, 'Author', 'Bruno Gonçales <bgl.bruno@gmail.com>'
+program :help, 'Author', 'Bruno Goncales <bgl.bruno@gmail.com>'
 
 command :ip do |c|
   c.syntax = 'IpTracker [target]'
